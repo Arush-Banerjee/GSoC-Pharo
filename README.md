@@ -11,6 +11,6 @@ A simple grid containing cells having basic environment(grass, flower, puddle, r
 
 https://github.com/user-attachments/assets/7a29504e-4cae-419e-a489-c91971b16d29
 
-The art in this project is completely made by me on Aseprite. The codeing and logic has been developed by me but LLMs have been used for debugging which were taking a lot of time.
+The art in this project is completely made by me on Aseprite. The codeing and logic has been developed by me but LLMs have been used for aiding in learning Pharo and for debugging which were taking a lot of time.
 
 Reference: [Morphic in Pharo](https://pharoweekly.wordpress.com/wp-content/uploads/2021/08/morphic.pdf)
