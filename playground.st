@@ -46,7 +46,7 @@ morph openInWorld.
 morph position: 50@50.
 
 [
-    1 to: 30 do: [ :i |   "The walker moves 50 times"
+    1 to: 30 do: [ :i |   "The walker moves 30 times"
         walker step.
         mapForm := Form extent: (mapW * tileSize) @ (mapH * tileSize) depth: 32.
         tm renderOn: mapForm.
