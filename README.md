@@ -9,7 +9,8 @@ A simple grid containing cells having basic environment(grass, flower, puddle, r
 
 **Demo**
 
-https://github.com/user-attachments/assets/7a29504e-4cae-419e-a489-c91971b16d29
+https://github.com/user-attachments/assets/4902e0d7-5978-44f7-ab2f-17cf3a68f756
+
 
 I have added comments on all the classes and methods in the package to make the code readable.
 
